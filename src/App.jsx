@@ -50,4 +50,5 @@ const App = () => {
   );
 };
 <Education />;
+//Done Pull
 export default App;
