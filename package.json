@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://WaizHaider.github.io/porfolio-website",
+  "homepage": "https://WaizHaider.github.io/porfolio-website",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://WaizHaider.github.io/porfolio-website",
+    "build-gh": "parcel build --public-url 'https://WaizHaider.github.io/porfolio-website",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
