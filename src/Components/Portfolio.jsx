@@ -19,8 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
-
+import image from "../images/Data.jpg";
 const imageAltText = "desktop with books and laptop";
 
 /**
@@ -31,28 +30,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "RecipeApp 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to create a beginner friendly app for the users to let them teacch how to make their desire dishes.",
+    url: "https://github.com/WaizHaider/RecipeApp",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Dice Roller ",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Facinating Multiplayer competivtive game for 2 people which they can enjoy in their leisure time.",
+    url: "https://github.com/WaizHaider/Dice_Roller",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume SiteGlobal-Power-Plant",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "The report presents descriptive statistics of the dataset, including its size, structure, and composition. I then used visualization techniques such as scatter plots, histograms, and box plots to present the data in a meaningful and understandable way.",
+    url: "https://github.com/WaizHaider/Global-Power-Plant",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "European-Data-SetEuropean-Data-Set",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "this data analytics report provides valuable insights and analysis on the European Flights Data, showcasing the importance of data cleaning, visualization, and analysis in understanding the impact of COVID-19 on the aviation industry.",
+    url: "https://github.com/WaizHaider/European-Data-Set",
   },
 ];
 
