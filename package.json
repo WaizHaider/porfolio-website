@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://WaizHaider.github.io/porfolio-website",
+    "build-gh": "parcel build --public-url 'https://WaizHaider.github.io/porfolio-website'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
